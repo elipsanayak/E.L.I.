@@ -13,6 +13,7 @@
   height: 10rem;
   animation: glow-and-scale 4s ease-in-out infinite;
   border-radius: 50%;
+  filter: drop-shadow(0 20px 40px rgb(181, 255, 251));
 }
 
 @keyframes glow-and-scale {

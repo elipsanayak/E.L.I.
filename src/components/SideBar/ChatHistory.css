@@ -1,0 +1,10 @@
+.history {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.history span {
+  display: block;
+  padding: 6px 0;
+  color: #555;
+}

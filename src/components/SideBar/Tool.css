@@ -1,0 +1,9 @@
+.tool {
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.tool:hover {
+  background: #f1f1f1;
+}
